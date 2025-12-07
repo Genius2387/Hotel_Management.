@@ -17,7 +17,7 @@ const roomsData = [
     },
     {
       id: 3,
-      image: './assets/single_room.jpg',
+      image: './assets/singl room.jpg',
       title: 'Single Room',
       price: 99,
       description: 'Cozy room ideal for solo travelers',
